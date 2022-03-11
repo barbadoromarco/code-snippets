@@ -1,6 +1,6 @@
 class MyComponent extends React.Component {
-  constructor(prop) {
-    super(prop);
+  constructor(props) {
+    super(props);
   }
   render() {
     return (
