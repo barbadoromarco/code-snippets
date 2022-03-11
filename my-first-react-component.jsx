@@ -7,6 +7,6 @@ class MyComponent extends React.Component {
       <div>
         <h1>My First React Component!</h1>
       </div>
-    )
+    );
   }
 }
